@@ -1,0 +1,13 @@
+#dict {admin:123456,admin1{aa:123,bb:456}}
+
+#admin: 5
+#admin1: 1
+
+
+a: 1111
+b: !!str 222
+c:
+ - 1
+ - 2
+ - 3
+d: ~
