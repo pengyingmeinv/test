@@ -1,0 +1,31 @@
+dingdan:
+    desc: 订单
+    locators:
+        -
+         by: text
+         value: 火车票
+         name: 火车票
+        -
+         by: text
+         value: 机票
+         name: 机票
+        -
+         by: text
+         value: 汽车票
+         name: 汽车票
+        -
+         by: text
+         value: 酒店
+         name: 酒店
+        -
+         by: text
+         value: 专车订单
+         name: 专车订单
+        -
+         by: text
+         value: 船票订单
+         name: 船票订单
+        -
+         by: text
+         value: 门票订单
+         name: 门票订单

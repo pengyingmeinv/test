@@ -36,6 +36,6 @@ def get_locals(page,name):
             # print(type(i))
 
 
-c = get_locals(a,"我的")
+c = get_locals(a, "我的")
 # print(type(get_locals(a,"我的")))
 print(c)
